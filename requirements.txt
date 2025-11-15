@@ -1,0 +1,8 @@
+requests
+pandas
+python-telegram-bot
+apscheduler
+pytz
+websocket-client
+numpy
+base58
